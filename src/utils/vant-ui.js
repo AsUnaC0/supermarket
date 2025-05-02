@@ -1,0 +1,25 @@
+import Vue from 'vue'
+import { AddressEdit, Area, AddressList, Tab, Tabs, Checkbox, Dialog, ActionSheet, Icon, Search, Swipe, SwipeItem, Grid, GridItem, Button, Switch, Rate, Tabbar, TabbarItem, NavBar, Toast } from 'vant'
+
+// 按需导入
+Vue.use(Tab)
+Vue.use(Dialog)
+Vue.use(Tabs)
+Vue.use(Search)
+Vue.use(Swipe)
+Vue.use(SwipeItem)
+Vue.use(Grid)
+Vue.use(GridItem)
+Vue.use(Tabbar)
+Vue.use(TabbarItem)
+Vue.use(Button)
+Vue.use(Switch)
+Vue.use(Rate)
+Vue.use(NavBar)
+Vue.use(Toast)
+Vue.use(Icon)
+Vue.use(ActionSheet)
+Vue.use(Checkbox)
+Vue.use(AddressList)
+Vue.use(Area)
+Vue.use(AddressEdit)
